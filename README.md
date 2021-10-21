@@ -26,11 +26,11 @@
 - Never met a dog, cat, or any other type critter that I didn't want to be buddies with
 - European & SE Asian candy bars are preferred to US candy bars
 - Prefer tea (black or green) to coffee
-- 
 
 ---
 
 ### Contact Info:
+
 - Twitter: [@StinkyStinkFace](https://twitter.com/StinkyStinkFace)
 - Email: [meltonlogan@me.com](mailto:meltonlogan@me.com)
 - LinkedIn: [Profile](https://www.linkedin.com/in/logan-melton-7924021b5/)
