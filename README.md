@@ -3,7 +3,7 @@
 --- 
 
 ### I am a(n)...
-- Early stage Swift / Cocoa developer 📱
+- Early stage Swift 📱
 - Eager and excited to learn and do
 - Growth focused 📈
 - Mutli-intrumentalist 🎸🪕
