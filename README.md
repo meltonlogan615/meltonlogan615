@@ -3,20 +3,20 @@
 --- 
 
 ### I am a(n)...
-- Early stage Swift 📱
+- Early stage Swift
 - Eager and excited to learn and do
-- Growth focused 📈
-- Mutli-intrumentalist 🎸🪕
+- Personal growth focused
+- Mutli-intrumentalist
 - General purpose derelict 
 
 ---
 
 ### I am currently...
 
-- Working in sales, marketing, account management 😔
-- Learning SwiftUI 🥰
+- Working in sales, marketing, account management
 - Have way too many personal projects in my pipeline
-- Listening to Wu-Tang, Rancid, and Hank Williams (Sr)
+- Listening to Wu-Tang, Rancid, or Hank Williams (Sr)
+- Probably eating a candy bar
 
 ---
 
