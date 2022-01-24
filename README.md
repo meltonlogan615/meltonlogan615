@@ -3,7 +3,7 @@
 --- 
 
 ### I am a(n)...
-- Early stage Swift
+- Early stage Swift Developer
 - Eager and excited to learn and do
 - Personal growth focused
 - Mutli-intrumentalist
