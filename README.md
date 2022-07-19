@@ -3,9 +3,9 @@
 --- 
 
 ### I am a(n)...
-- Early stage Swift Developer
-- Eager and excited to learn and do
-- Personal growth focused
+- Swift Developer
+- Frustratingly persistent
+- Growth focused
 - Mutli-intrumentalist
 - General purpose derelict 
 
@@ -25,7 +25,7 @@
 - Love pre-Julian through Imerpial Roman history
 - Never met a dog, cat, or any other type critter that I didn't want to be buddies with
 - European & SE Asian candy bars are preferred to US candy bars
-- Prefer tea (black or green) to coffee
+- Prefer tea (black or green) to coffee.
 
 ---
 
