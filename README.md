@@ -32,4 +32,4 @@
 ### Contact Info:
 
 - Email: [meltonlogan@me.com](mailto:meltonlogan@me.com)
-- LinkedIn: [Profile](https://www.linkedin.com/in/logan-melton-7924021b5/)
+- LinkedIn: [Profile](https://www.linkedin.com/in/logan-m-7924021b5/)
