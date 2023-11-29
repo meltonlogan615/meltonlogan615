@@ -3,9 +3,9 @@
 --- 
 
 ### I am a(n)...
-- Swift Developer
-- Frustratingly persistent
 - Growth focused
+- Frustratingly persistent
+- Web & Swift Developer
 - Mutli-intrumentalist
 - General purpose derelict 
 
@@ -31,6 +31,5 @@
 
 ### Contact Info:
 
-- Twitter: [@StinkyStinkFace](https://twitter.com/StinkyStinkFace)
 - Email: [meltonlogan@me.com](mailto:meltonlogan@me.com)
 - LinkedIn: [Profile](https://www.linkedin.com/in/logan-melton-7924021b5/)
